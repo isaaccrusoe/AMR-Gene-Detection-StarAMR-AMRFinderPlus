@@ -32,6 +32,13 @@ Example genomes:
 
 ## ⚙️ Workflow Summary
 
-### 1️⃣ Activate environment
+### 1 Activate environment
 ```bash
 conda activate staramr_env
+
+2. staramr db update -d
+staramr db info
+
+3. cd data/raw_genomes
+staramr search -o ../../data/results/staramr/staramr_all_results *.fna
+
