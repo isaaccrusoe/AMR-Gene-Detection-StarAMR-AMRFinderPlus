@@ -42,3 +42,7 @@ staramr db info
 3. cd data/raw_genomes
 staramr search -o ../../data/results/staramr/staramr_all_results *.fna
 
+Author
+
+Isaac Crusoe
+MSc Veterinary Microbiology | One Health | AMR & Bioinformatics
